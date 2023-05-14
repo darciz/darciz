@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm darci</h1>
+<h1 align="center">Hi 👋, I'm nofufubane</h1>
 <h3 align="center">C++ developer, reverse engineer, pentester, and entrepreneur. 17, from Poland</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=darciz&label=Profile%20views&color=0e75b6&style=flat" alt="darciz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nofufubane&label=Profile%20views&color=0e75b6&style=flat" alt="nofufubane" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/f6ith.nyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f6ith.nyy" height="30" width="40" /></a>
-<a href="https://discord.com/users/853567250002608158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darci" height="30" width="40" /></a>
+<a href="https://discord.com/users/853567250002608158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nofufubane" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
